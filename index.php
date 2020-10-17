@@ -33,4 +33,5 @@
         echo 'True';
     }
 
-
+    // git status -> for checking if files were modified
+    // git checkout -> switching to another
