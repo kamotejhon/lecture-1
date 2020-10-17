@@ -40,4 +40,5 @@
     // git branch -> checking for the list of branches
     // git branch -D -> deletion of branch
     // git commit -m "Message"
-    // git push origin 
+    // git push origin <branch> -> push code changes to cloud
+    // git pull origin <branch> -> pull of updated code
