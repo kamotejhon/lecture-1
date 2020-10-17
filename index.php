@@ -33,4 +33,11 @@
         echo 'True';
     }
 
-
+    // git status -> for checking if files were modified
+    // git checkout -> switching to another
+    // git checkout -b -> creation and switching to new branch
+    // git diff -> checking the modified from the modified file
+    // git branch -> checking for the list of branches
+    // git branch -D -> deletion of branch
+    // git commit -m "Message"
+    // git push origin 
